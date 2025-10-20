@@ -1,0 +1,11 @@
+.title {
+    font-weight: bold;
+    color: white;
+}
+
+.text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: greenyellow;
+    text-align: center;
+    background-color: darkslateblue;
+}
