@@ -1,12 +1,12 @@
-.title {
+..title {
     font-weight: bold;
     color: white;
+    font-family: 'Gill Sans';
 }
 
 .text {
-    font-family: 'Gill Sans';
+    font-family: 'Gill Sans', sans-serif;
     color: greenyellow;
     text-align: center;
     background-color: darkslateblue;
-
 }
